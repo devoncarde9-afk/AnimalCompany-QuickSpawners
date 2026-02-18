@@ -1,0 +1,8 @@
+Package: com.xd.quickspawners
+Name: XD Menu + Quick Spawners
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: Adds JSON Spawner, All Bags, Full Shredder to XD Menu
+Maintainer: Anonymous
+Section: Tweaks
+Depends: mobilesubstrate
